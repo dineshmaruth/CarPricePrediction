@@ -21,10 +21,17 @@ pip install
 Run the Jupyter notebook or VS code.
 
 ## Demo
-![New Tab - Google Chrome 2023-12-16 12-53-41](https://github.com/dineshmaruth/CarPricePrediction/assets/136602882/721cb4a7-ef1a-46a9-aae2-03b813682eb3)
+
+https://github.com/dineshmaruth/CarPricePrediction/assets/136602882/f6723d6a-cce9-4474-9d27-3f9a69575cb8
+
 
 
 ## Checking relationship of Company with Price
 ![Screenshot 2023-12-16 130354](https://github.com/dineshmaruth/CarPricePrediction/assets/136602882/bef9ba0b-89c6-410e-80f6-3c460459709c)
 
-##
+## Checking relationship of Year with Price
+![Screenshot 2023-12-16 130415](https://github.com/dineshmaruth/CarPricePrediction/assets/136602882/7c15d1b2-766f-429c-99a6-c73acfd6b1ab)
+
+## Relationship of Price with FuelType, Year and Company mixed
+![download](https://github.com/dineshmaruth/CarPricePrediction/assets/136602882/fe4b62a9-3ab3-4853-8dd2-fe7bc12d86ac)
+
